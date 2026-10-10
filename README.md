@@ -34,3 +34,8 @@ Validate appointment details before booking.
 
 ## Feature
 Patients can book hospital appointments online.
+
+## Online Appointment Booking Feature
+- Patients can request hospital appointments online.
+- Appointment details are validated before booking.
+- The feature is developed and tested before merging into main.
