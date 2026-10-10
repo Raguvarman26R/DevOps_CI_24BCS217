@@ -34,3 +34,6 @@ Validate appointment details before booking.
 
 ## Feature
 Patients can book hospital appointments online.
+
+Project status: ready for review.git add README.md
+git commit -m "Update project status for review"
