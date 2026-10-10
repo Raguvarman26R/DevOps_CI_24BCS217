@@ -34,3 +34,5 @@ Validate appointment details before booking.
 
 ## Feature
 Patients can book hospital appointments online.
+
+Project status: active development.
