@@ -28,3 +28,5 @@ python -m src.app
 
 ## Run Tests
 python -m unittest discover -s tests -v
+## Bug Fix
+Validate appointment details before booking.
