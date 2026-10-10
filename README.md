@@ -30,3 +30,6 @@ python -m src.app
 python -m unittest discover -s tests -v
 ## Bug Fix
 Validate appointment details before booking.
+
+## Feature
+Patients can book hospital appointments online.
