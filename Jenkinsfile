@@ -12,15 +12,15 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Checking Python source files'
-                bat 'python --version'
-                bat 'python -m compileall -q src tests'
+                bat '"C:\\Users\\Raguvarman\\AppData\\Local\\Programs\\Python\\Python313\\python.exe" --version'
+                bat '"C:\\Users\\Raguvarman\\AppData\\Local\\Programs\\Python\\Python313\\python.exe" -m compileall -q src tests'
             }
         }
 
         stage('Test') {
             steps {
                 echo 'Running unit tests'
-                bat 'python -m unittest discover -s tests -v'
+                bat '"C:\\Users\\Raguvarman\\AppData\\Local\\Programs\\Python\\Python313\\python.exe" -m unittest discover -s tests -v'
             }
         }
 
