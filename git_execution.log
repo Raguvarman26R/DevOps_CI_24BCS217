@@ -1,0 +1,113 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261010145338
+Username: RAGUVARMAN\Raguvarman
+RunAs User: RAGUVARMAN\Raguvarman
+Configuration Name: 
+Machine: RAGUVARMAN (Microsoft Windows NT 10.0.26300.0)
+Host Application: C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\Raguvarman\AppData\Local\Programs\Microsoft VS Code\2a59476c9b\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+Process ID: 27264
+PSVersion: 5.1.26100.9549
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9549
+BuildVersion: 10.0.26100.9549
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\git_execution.log
+
+
+
+
+**********************
+Windows PowerShell transcript end
+End time: 20261010145339
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20261010145538
+Username: RAGUVARMAN\Raguvarman
+RunAs User: RAGUVARMAN\Raguvarman
+Configuration Name: 
+Machine: RAGUVARMAN (Microsoft Windows NT 10.0.26300.0)
+Host Application: C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\Raguvarman\AppData\Local\Programs\Microsoft VS Code\2a59476c9b\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+Process ID: 27264
+PSVersion: 5.1.26100.9549
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9549
+BuildVersion: 10.0.26100.9549
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\git_execution.log
+
+
+
+
+**********************
+Windows PowerShell transcript end
+End time: 20261010145539
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20261010145717
+Username: RAGUVARMAN\Raguvarman
+RunAs User: RAGUVARMAN\Raguvarman
+Configuration Name: 
+Machine: RAGUVARMAN (Microsoft Windows NT 10.0.26300.0)
+Host Application: C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\Raguvarman\AppData\Local\Programs\Microsoft VS Code\2a59476c9b\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+Process ID: 27264
+PSVersion: 5.1.26100.9549
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9549
+BuildVersion: 10.0.26100.9549
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\git_execution.log
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>Start-Transcript -Path ".\git_execution.log" -Append
+Transcript started, output file is .\git_execution.log
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>git branch -a
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>git add
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>git add .
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>git branch -a
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>git remote -v
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>git log --oneline -5
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>Stop-Transcript
+Transcript stopped, output file is C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217\git_execution.log
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>git branch -a
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cRaguvarman\x5cDesktop\x5cDevOps_CI_24BCS217PS C:\Users\Raguvarman\Desktop\DevOps_CI_24BCS217> ]633;B
